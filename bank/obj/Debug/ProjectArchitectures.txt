@@ -1,0 +1,6 @@
+C:\Users\Joao\OneDrive\bank\bank.dto\Bank.DTO.csproj;neutral
+C:\Users\Joao\OneDrive\bank\bank.dto\Bank.DTO.csproj;neutral
+C:\Users\Joao\OneDrive\bank\Bank.Logic\Bank.Logic.csproj;neutral
+C:\Users\Joao\OneDrive\bank\Bank.Logic\Bank.Logic.csproj;neutral
+C:\Users\Joao\OneDrive\bank\Bank.ViewModel\Bank.ViewModel.csproj;neutral
+C:\Users\Joao\OneDrive\bank\bank\Bank.csproj;neutral

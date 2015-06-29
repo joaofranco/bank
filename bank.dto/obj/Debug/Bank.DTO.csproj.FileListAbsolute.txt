@@ -1,0 +1,16 @@
+C:\Users\Joao\OneDrive\bank\bank.dto\bin\Debug\bank.dto.dll
+C:\Users\Joao\OneDrive\bank\bank.dto\bin\Debug\bank.dto.pdb
+C:\Users\Joao\OneDrive\bank\bank.dto\bin\Debug\bank.dto.pri
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\bank.dto.dll
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\bank.dto.pdb
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\priconfig.xml
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\priconfig.xml.intermediate
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\layout.resfiles
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\layout.resfiles.intermediate
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\resources.resfiles
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\resources.resfiles.intermediate
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\pri.resfiles
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\pri.resfiles.intermediate
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\qualifiers.txt
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Joao\OneDrive\bank\bank.dto\obj\Debug\MultipleQualifiersPerDimensionFound.txt
