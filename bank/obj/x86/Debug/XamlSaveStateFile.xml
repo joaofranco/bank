@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\joao\onedrive\bank\bank\obj\x86\debug\intermediatexaml\bank.exe" HashGuid="4c871eb2-ddd5-1cee-5242-62418007cd34" />
+    <ReferenceAssembly PathName="c:\users\joao\onedrive\bank\bank.logic\bin\x86\debug\bank.logic.dll" HashGuid="f44fcbd6-64ac-2f35-803c-5f0201b35800" />
+    <ReferenceAssembly PathName="c:\users\joao\onedrive\bank\bank.viewmodel\bin\x86\debug\bank.viewmodel.dll" HashGuid="1960dbb1-6def-c4a9-1e88-6c5d31f702cb" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

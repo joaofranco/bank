@@ -50,7 +50,6 @@ namespace Bank.ViewModel
         {
             ExtractVM = null; 
             
-
             try
             {
                 var extractResponse = await Helper.Current.Api.GetExtract();

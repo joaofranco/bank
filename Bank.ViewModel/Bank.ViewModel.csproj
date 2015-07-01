@@ -90,6 +90,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\Converters.cs" />
     <Compile Include="Item\BillVM.cs" />
     <Compile Include="Item\ExpenseLineVM.cs" />
     <Compile Include="Item\ExtractVM.cs" />

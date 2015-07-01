@@ -1,0 +1,11 @@
+C:\Users\Joao\OneDrive\bank\bank.dto\Bank.DTO.csproj;x86
+C:\Users\Joao\OneDrive\bank\bank.dto\Bank.DTO.csproj;x86
+C:\Users\Joao\OneDrive\bank\bank.dto\Bank.DTO.csproj;x86
+C:\Users\Joao\OneDrive\bank\bank.dto\Bank.DTO.csproj;x86
+C:\Users\Joao\OneDrive\bank\Bank.Logic\Bank.Logic.csproj;x86
+C:\Users\Joao\OneDrive\bank\Bank.Logic\Bank.Logic.csproj;x86
+C:\Users\Joao\OneDrive\bank\Bank.Logic\Bank.Logic.csproj;x86
+C:\Users\Joao\OneDrive\bank\Bank.Tests\Bank.Tests.csproj;x86
+C:\Users\Joao\OneDrive\bank\Bank.ViewModel\Bank.ViewModel.csproj;x86
+C:\Users\Joao\OneDrive\bank\Bank.ViewModel\Bank.ViewModel.csproj;x86
+C:\Users\Joao\OneDrive\bank\bank\Bank.csproj;x86

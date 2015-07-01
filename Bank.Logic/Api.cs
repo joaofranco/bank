@@ -24,9 +24,11 @@ namespace Bank.Logic
         {
             var response = await client.GetAsync(new Uri("https://s3-sa-east-1.amazonaws.com/mobile-challenge/bill/bill.json"));
             var result = await response.Content.ReadAsStringAsync();
+            var status = (int)response.StatusCode;
+
             var billResponse = new ExtractResponse();
             billResponse.Data = JsonConvert.DeserializeObject<List<RootObject>>(result);
-            billResponse.Status = (int)response.StatusCode;
+            billResponse.Status = status;
             return billResponse;
         }
         
